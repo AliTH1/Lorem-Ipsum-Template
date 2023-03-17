@@ -1,0 +1,35 @@
+a{
+    font-size: 17px;
+    color: black;
+}
+
+.custom-h1{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 20px;
+}
+
+p{
+    text-align:justify;
+}
+
+h3{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.text-2{
+    font-size: 14px;
+}
+
+
+li{
+    list-style-type: none;
+}
+
+.input-value, .input-radio, .input-checkbox{
+    float: left;
+}
+
+.input-checkbox{
+    width: 50%;
+    margin-left: 60px;
+}
